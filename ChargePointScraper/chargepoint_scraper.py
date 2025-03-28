@@ -15,7 +15,7 @@ class ChargePointAuthenticationExpiredException(ChargePointScraperException):
 
 
 class ChargePointScraper(object):
-    # Office
+    
     DEFAULT_LATITUDE = 37.32531489364759
     DEFAULT_LONGITUDE = -122.00501893998376
 
