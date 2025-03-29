@@ -1,5 +1,5 @@
 
-### ** Methods and Tools Used:**
+###  Methods and Tools Used:
 
 #### **1. Web Scraping & API Interaction**
 - **Requests Library**: Used to send HTTP requests to ChargePoint's API endpoints.
