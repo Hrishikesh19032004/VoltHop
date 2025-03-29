@@ -29,4 +29,4 @@
    - Some API responses may be malformed or empty.  
    - Solution: Check for `"error"` fields in the response and handle missing data safely.  
 
-Would you like to extend this script to save the retrieved data to a CSV or database? 🚀
+
