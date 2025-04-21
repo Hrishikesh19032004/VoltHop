@@ -1,0 +1,595 @@
+2025-04-21 16:56:23,820 - INFO - Scraping: https://about.bnef.com/
+2025-04-21 16:56:25,118 - INFO - Successfully scraped: BNEF Homepage (https://about.bnef.com/)
+2025-04-21 16:56:27,592 - INFO - Scraping: https://about.bnef.com/#that-jump-content--default
+2025-04-21 16:56:27,654 - INFO - Successfully scraped: BNEF Jump Content (https://about.bnef.com/#that-jump-content--default)
+2025-04-21 16:56:29,025 - INFO - Scraping: https://about.bnef.com/?utm_source=bloomberg-menu&utm_medium=bnef
+2025-04-21 16:56:29,095 - INFO - Successfully scraped: BNEF Bloomberg Menu (https://about.bnef.com/?utm_source=bloomberg-menu&utm_medium=bnef)
+2025-04-21 16:56:32,015 - INFO - Scraping: https://about.bnef.com/product/
+2025-04-21 16:56:32,143 - INFO - Successfully scraped: BNEF Product Page (https://about.bnef.com/product/)
+2025-04-21 16:56:33,526 - INFO - Scraping: https://about.bnef.com/blog/?tactic-page=443258
+2025-04-21 16:56:33,608 - INFO - Successfully scraped: BNEF Blog 443258 (https://about.bnef.com/blog/?tactic-page=443258)
+2025-04-21 16:56:33,609 - INFO - Progress: 5/33 URLs processed (15.2%)
+2025-04-21 16:56:34,720 - INFO - Scraping: https://about.bnef.com/about/?tactic-page=443258
+2025-04-21 16:56:34,835 - INFO - Successfully scraped: BNEF About 443258 (https://about.bnef.com/about/?tactic-page=443258)
+2025-04-21 16:56:36,381 - INFO - Scraping: https://about.bnef.com/summit/?tactic-page=443258
+2025-04-21 16:56:36,535 - INFO - Successfully scraped: BNEF Summit 443258 (https://about.bnef.com/summit/?tactic-page=443258)
+2025-04-21 16:56:38,626 - INFO - Scraping: https://about.bnef.com/summit/partnership/
+2025-04-21 16:56:38,767 - INFO - Successfully scraped: BNEF Summit Partnership (https://about.bnef.com/summit/partnership/)
+2025-04-21 16:56:39,875 - INFO - Scraping: https://about.bnef.com/summit/innovation-forum/
+2025-04-21 16:56:39,954 - INFO - Successfully scraped: BNEF Summit Innovation Forum (https://about.bnef.com/summit/innovation-forum/)
+2025-04-21 16:56:41,108 - INFO - Scraping: https://about.bnef.com/summit/london/
+2025-04-21 16:56:41,193 - INFO - Successfully scraped: BNEF Summit London (https://about.bnef.com/summit/london/)
+2025-04-21 16:56:41,193 - INFO - Progress: 10/33 URLs processed (30.3%)
+2025-04-21 16:56:44,178 - INFO - Scraping: https://about.bnef.com/summit/munich/
+2025-04-21 16:56:44,272 - INFO - Successfully scraped: BNEF Summit Munich (https://about.bnef.com/summit/munich/)
+2025-04-21 16:56:45,283 - INFO - Scraping: https://about.bnef.com/summit/newdelhi/
+2025-04-21 16:56:45,365 - INFO - Successfully scraped: BNEF Summit New Delhi (https://about.bnef.com/summit/newdelhi/)
+2025-04-21 16:56:46,420 - INFO - Scraping: https://about.bnef.com/summit/newyork/
+2025-04-21 16:56:46,502 - INFO - Successfully scraped: BNEF Summit New York (https://about.bnef.com/summit/newyork/)
+2025-04-21 16:56:48,243 - INFO - Scraping: https://about.bnef.com/summit/sanfrancisco/
+2025-04-21 16:56:48,306 - INFO - Successfully scraped: BNEF Summit San Francisco (https://about.bnef.com/summit/sanfrancisco/)
+2025-04-21 16:56:51,260 - INFO - Scraping: https://about.bnef.com/summit/shanghai/
+2025-04-21 16:56:51,321 - INFO - Successfully scraped: BNEF Summit Shanghai (https://about.bnef.com/summit/shanghai/)
+2025-04-21 16:56:51,322 - INFO - Progress: 15/33 URLs processed (45.5%)
+2025-04-21 16:56:54,321 - INFO - Scraping: https://about.bnef.com/summit/beijing/
+2025-04-21 16:56:54,390 - INFO - Successfully scraped: BNEF Summit Beijing (https://about.bnef.com/summit/beijing/)
+2025-04-21 16:56:55,822 - INFO - Scraping: https://about.bnef.com/summit/houston/
+2025-04-21 16:56:55,902 - INFO - Successfully scraped: BNEF Summit Houston (https://about.bnef.com/summit/houston/)
+2025-04-21 16:56:57,193 - INFO - Scraping: https://about.bnef.com/contact/?tactic-page=443258
+2025-04-21 16:56:57,354 - INFO - Successfully scraped: BNEF Contact 443258 (https://about.bnef.com/contact/?tactic-page=443258)
+2025-04-21 16:56:59,119 - INFO - Scraping: https://about.bnef.com/contact
+2025-04-21 16:56:59,266 - INFO - Successfully scraped: BNEF Contact (https://about.bnef.com/contact)
+2025-04-21 16:57:01,432 - INFO - Scraping: https://about.bnef.com/product
+2025-04-21 16:57:01,546 - INFO - Successfully scraped: BNEF Product (https://about.bnef.com/product)
+2025-04-21 16:57:01,547 - INFO - Progress: 20/33 URLs processed (60.6%)
+2025-04-21 16:57:04,510 - INFO - Scraping: https://about.bnef.com/#toc-researchanddata
+2025-04-21 16:57:06,401 - INFO - Successfully scraped: BNEF Research and Data (https://about.bnef.com/#toc-researchanddata)
+2025-04-21 16:57:09,173 - INFO - Scraping: https://about.bnef.com/#toc-summits
+2025-04-21 16:57:09,266 - INFO - Successfully scraped: BNEF Summits (https://about.bnef.com/#toc-summits)
+2025-04-21 16:57:10,902 - INFO - Scraping: https://about.bnef.com/#toc-pioneers
+2025-04-21 16:57:10,980 - INFO - Successfully scraped: BNEF Pioneers (https://about.bnef.com/#toc-pioneers)
+2025-04-21 16:57:12,080 - INFO - Scraping: https://about.bnef.com/blog/category/report/
+2025-04-21 16:57:12,184 - INFO - Successfully scraped: BNEF Report Category (https://about.bnef.com/blog/category/report/)
+2025-04-21 16:57:14,832 - INFO - Scraping: https://about.bnef.com/new-energy-outlook/
+2025-04-21 16:57:15,016 - INFO - Successfully scraped: BNEF New Energy Outlook (https://about.bnef.com/new-energy-outlook/)
+2025-04-21 16:57:15,016 - INFO - Progress: 25/33 URLs processed (75.8%)
+2025-04-21 16:57:16,380 - INFO - Scraping: https://about.bnef.com/electric-vehicle-outlook/
+2025-04-21 16:57:16,560 - INFO - Successfully scraped: BNEF Electric Vehicle Outlook (https://about.bnef.com/electric-vehicle-outlook/)
+2025-04-21 16:57:19,469 - INFO - Scraping: https://about.bnef.com/energy-transition-investment/
+2025-04-21 16:57:19,625 - INFO - Successfully scraped: BNEF Energy Transition Investment (https://about.bnef.com/energy-transition-investment/)
+2025-04-21 16:57:22,270 - INFO - Scraping: https://about.bnef.com/summit/
+2025-04-21 16:57:22,326 - INFO - Successfully scraped: BNEF Summit (https://about.bnef.com/summit/)
+2025-04-21 16:57:23,410 - INFO - Scraping: https://about.bnef.com/summit/partnership/#toc-partners
+2025-04-21 16:57:23,528 - INFO - Successfully scraped: BNEF Summit Partnership Partners (https://about.bnef.com/summit/partnership/#toc-partners)
+2025-04-21 16:57:25,565 - INFO - Scraping: https://about.bnef.com/summit/partnership/?vid=824073466
+2025-04-21 16:57:25,676 - INFO - Successfully scraped: BNEF Summit Partnership Video 824073466 (https://about.bnef.com/summit/partnership/?vid=824073466)
+2025-04-21 16:57:25,677 - INFO - Progress: 30/33 URLs processed (90.9%)
+2025-04-21 16:57:27,693 - INFO - Scraping: https://about.bnef.com/summit/partnership/#top
+2025-04-21 16:57:27,759 - INFO - Successfully scraped: BNEF Summit Partnership Top (https://about.bnef.com/summit/partnership/#top)
+2025-04-21 16:57:30,674 - INFO - Scraping: https://about.bnef.com/summit/london/videos/?vid=824073466
+2025-04-21 16:57:30,764 - INFO - Successfully scraped: BNEF Summit London Video 824073466 (https://about.bnef.com/summit/london/videos/?vid=824073466)
+2025-04-21 16:57:32,644 - INFO - Scraping: https://about.bnef.com/summit/partnership/?vid=824130882
+2025-04-21 16:57:32,718 - INFO - Successfully scraped: BNEF Summit Partnership Video 824130882 (https://about.bnef.com/summit/partnership/?vid=824130882)
+2025-04-21 16:57:32,720 - INFO - Progress: 33/33 URLs processed (100.0%)
+2025-04-21 16:57:32,720 - INFO - Scraping complete. Results saved to bnef_website_data.csv
+2025-04-21 16:59:59,805 - INFO - Scraping: https://www.iea.org/reports/global-ev-outlook-2020
+2025-04-21 17:00:01,308 - INFO - Successfully scraped: IEA EV Policies (https://www.iea.org/reports/global-ev-outlook-2020)
+2025-04-21 17:00:22,032 - INFO - Scraping: https://www.iea.org/reports/global-ev-outlook-2020
+2025-04-21 17:00:22,199 - INFO - Successfully scraped: IEA EV Policies (https://www.iea.org/reports/global-ev-outlook-2020)
+2025-04-21 17:00:23,722 - INFO - Scraping: https://www.iea.org/reports/ev30-30-initiative
+2025-04-21 17:00:24,603 - ERROR - Failed to retrieve https://www.iea.org/reports/ev30-30-initiative: Status code 404
+2025-04-21 17:00:24,605 - WARNING - Failed to extract content from: IEA EV Guidelines (https://www.iea.org/reports/ev30-30-initiative)
+2025-04-21 17:00:27,235 - INFO - Scraping: https://www.iea.org/reports/electric-vehicle-initiative
+2025-04-21 17:00:28,091 - ERROR - Failed to retrieve https://www.iea.org/reports/electric-vehicle-initiative: Status code 404
+2025-04-21 17:00:28,092 - WARNING - Failed to extract content from: IEA EV Standards (https://www.iea.org/reports/electric-vehicle-initiative)
+2025-04-21 17:00:31,079 - INFO - Scraping: https://www.iea.org/reports/ev30-30-initiative
+2025-04-21 17:00:31,123 - ERROR - Failed to retrieve https://www.iea.org/reports/ev30-30-initiative: Status code 404
+2025-04-21 17:00:31,124 - WARNING - Failed to extract content from: IEA EV Incentives (https://www.iea.org/reports/ev30-30-initiative)
+2025-04-21 17:00:33,925 - INFO - Scraping: https://www.iea.org/topics/transport/electric-vehicles
+2025-04-21 17:00:34,785 - ERROR - Failed to retrieve https://www.iea.org/topics/transport/electric-vehicles: Status code 404
+2025-04-21 17:00:34,786 - WARNING - Failed to extract content from: IEA EV News (https://www.iea.org/topics/transport/electric-vehicles)
+2025-04-21 17:00:34,787 - INFO - Progress: 5/5 URLs processed (100.0%)
+2025-04-21 17:00:34,787 - INFO - Scraping complete. Results saved to IEA.csv
+2025-04-21 17:14:35,959 - INFO - Scraping: https://www.iea.org/reports/global-ev-outlook-2023
+2025-04-21 17:14:36,868 - INFO - Successfully scraped: IEA EV Outlook (https://www.iea.org/reports/global-ev-outlook-2023)
+2025-04-21 17:14:38,632 - INFO - Scraping: https://www.iea.org/energy-system/transport/electric-vehicles
+2025-04-21 17:14:39,366 - INFO - Successfully scraped: IEA Electric Vehicles (https://www.iea.org/energy-system/transport/electric-vehicles)
+2025-04-21 17:14:42,295 - INFO - Scraping: https://www.iea.org/energy-system/energy-storage
+2025-04-21 17:14:43,165 - ERROR - Failed to retrieve https://www.iea.org/energy-system/energy-storage: Status code 404
+2025-04-21 17:14:43,166 - WARNING - Failed to extract content from: IEA Energy Storage (https://www.iea.org/energy-system/energy-storage)
+2025-04-21 17:14:44,212 - INFO - Scraping: https://www.iea.org/energy-system/transport
+2025-04-21 17:14:46,620 - INFO - Successfully scraped: IEA Transport (https://www.iea.org/energy-system/transport)
+2025-04-21 17:14:49,232 - INFO - Scraping: https://www.iea.org/reports/critical-minerals-in-clean-energy-transitions
+2025-04-21 17:14:50,074 - ERROR - Failed to retrieve https://www.iea.org/reports/critical-minerals-in-clean-energy-transitions: Status code 404
+2025-04-21 17:14:50,075 - WARNING - Failed to extract content from: IEA Critical Minerals (https://www.iea.org/reports/critical-minerals-in-clean-energy-transitions)
+2025-04-21 17:14:50,075 - INFO - Progress: 5/8 URLs processed (62.5%)
+2025-04-21 17:14:52,466 - INFO - Scraping: https://www.iea.org/reports/net-zero-by-2050
+2025-04-21 17:14:52,691 - INFO - Successfully scraped: IEA Net Zero by 2050 (https://www.iea.org/reports/net-zero-by-2050)
+2025-04-21 17:14:55,586 - INFO - Scraping: https://www.iea.org/reports/batteries-and-hydrogen-technology
+2025-04-21 17:14:56,513 - ERROR - Failed to retrieve https://www.iea.org/reports/batteries-and-hydrogen-technology: Status code 404
+2025-04-21 17:14:56,515 - WARNING - Failed to extract content from: IEA Batteries and Hydrogen (https://www.iea.org/reports/batteries-and-hydrogen-technology)
+2025-04-21 17:14:57,800 - INFO - Scraping: https://www.iea.org/reports/energy-technology-perspectives-2023
+2025-04-21 17:14:59,209 - INFO - Successfully scraped: IEA Energy Technology Perspectives (https://www.iea.org/reports/energy-technology-perspectives-2023)
+2025-04-21 17:14:59,209 - INFO - Progress: 8/8 URLs processed (100.0%)
+2025-04-21 17:14:59,209 - INFO - Scraping complete. Results saved to IEA.csv
+2025-04-21 17:24:36,404 - INFO - Scraping: https://electrek.co/guides/electric-vehicles/
+2025-04-21 17:24:36,701 - INFO - Successfully scraped: Electrek EV Guides (https://electrek.co/guides/electric-vehicles/) - Saved to scraped_data\electrek_co.csv
+2025-04-21 17:24:38,800 - INFO - Scraping: https://electrek.co/guides/electric-car-charging/
+2025-04-21 17:24:40,221 - INFO - Successfully scraped: Electrek EV Charging (https://electrek.co/guides/electric-car-charging/) - Saved to scraped_data\electrek_co.csv
+2025-04-21 17:24:42,948 - INFO - Scraping: https://electrek.co/guides/ev-battery/
+2025-04-21 17:24:43,487 - ERROR - Failed to retrieve https://electrek.co/guides/ev-battery/: Status code 404
+2025-04-21 17:24:43,490 - WARNING - Failed to extract content from: Electrek EV Battery (https://electrek.co/guides/ev-battery/)
+2025-04-21 17:24:46,211 - INFO - Scraping: https://electrek.co/guides/tesla/
+2025-04-21 17:25:07,244 - INFO - Scraping: https://electrek.co/guides/electric-vehicles/
+2025-04-21 17:25:08,238 - INFO - Successfully scraped: Electrek EV Guides (https://electrek.co/guides/electric-vehicles/) - Saved to scraped_data\electrek_co.csv
+2025-04-21 17:25:10,992 - INFO - Scraping: https://electrek.co/guides/electric-car-charging/
+2025-04-21 17:25:12,582 - INFO - Successfully scraped: Electrek EV Charging (https://electrek.co/guides/electric-car-charging/) - Saved to scraped_data\electrek_co.csv
+2025-04-21 17:25:15,363 - INFO - Scraping: https://electrek.co/guides/ev-battery/
+2025-04-21 17:25:16,017 - ERROR - Failed to retrieve https://electrek.co/guides/ev-battery/: Status code 404
+2025-04-21 17:25:16,021 - WARNING - Failed to extract content from: Electrek EV Battery (https://electrek.co/guides/ev-battery/)
+2025-04-21 17:25:17,952 - INFO - Scraping: https://electrek.co/guides/tesla/
+2025-04-21 17:25:18,985 - INFO - Successfully scraped: Electrek Tesla (https://electrek.co/guides/tesla/) - Saved to scraped_data\electrek_co.csv
+2025-04-21 17:25:21,924 - INFO - Scraping: https://electrek.co/2023/01/09/ev-battery-tech-developments/
+2025-04-21 17:25:22,482 - ERROR - Failed to retrieve https://electrek.co/2023/01/09/ev-battery-tech-developments/: Status code 404
+2025-04-21 17:25:22,483 - WARNING - Failed to extract content from: Electrek Battery Tech (https://electrek.co/2023/01/09/ev-battery-tech-developments/)
+2025-04-21 17:25:22,484 - INFO - Progress: 5/90 URLs processed (5.6%)
+2025-04-21 17:25:25,219 - INFO - Scraping: https://insideevs.com/features/category/buying-advice/
+2025-04-21 17:25:26,041 - INFO - Successfully scraped: InsideEVs Buying Advice (https://insideevs.com/features/category/buying-advice/) - Saved to scraped_data\insideevs_com.csv
+2025-04-21 17:25:27,781 - INFO - Scraping: https://insideevs.com/news/category/battery-tech/
+2025-04-21 17:25:28,631 - INFO - Successfully scraped: InsideEVs Battery Tech (https://insideevs.com/news/category/battery-tech/) - Saved to scraped_data\insideevs_com.csv
+2025-04-21 17:25:31,006 - INFO - Scraping: https://insideevs.com/features/category/charging/
+2025-04-21 17:25:32,290 - ERROR - Failed to retrieve https://insideevs.com/features/category/charging/: Status code 404
+2025-04-21 17:25:32,293 - WARNING - Failed to extract content from: InsideEVs Charging (https://insideevs.com/features/category/charging/)
+2025-04-21 17:25:34,217 - INFO - Scraping: https://insideevs.com/news/category/industry-outlook/
+2025-04-21 17:25:35,027 - INFO - Successfully scraped: InsideEVs Industry Outlook (https://insideevs.com/news/category/industry-outlook/) - Saved to scraped_data\insideevs_com.csv
+2025-04-21 17:25:37,554 - INFO - Scraping: https://insideevs.com/car-reviews/
+2025-04-21 17:25:39,529 - INFO - Successfully scraped: InsideEVs Car Reviews (https://insideevs.com/car-reviews/) - Saved to scraped_data\insideevs_com.csv
+2025-04-21 17:25:39,530 - INFO - Progress: 10/90 URLs processed (11.1%)
+2025-04-21 17:25:41,229 - INFO - Scraping: https://cleantechnica.com/category/clean-transport/
+2025-04-21 17:25:41,296 - ERROR - Failed to retrieve https://cleantechnica.com/category/clean-transport/: Status code 403
+2025-04-21 17:25:41,325 - WARNING - Failed to extract content from: CleanTechnica Transport (https://cleantechnica.com/category/clean-transport/)
+2025-04-21 17:25:43,090 - INFO - Scraping: https://cleantechnica.com/category/battery-storage/
+2025-04-21 17:25:43,131 - ERROR - Failed to retrieve https://cleantechnica.com/category/battery-storage/: Status code 403
+2025-04-21 17:25:43,135 - WARNING - Failed to extract content from: CleanTechnica Battery Storage (https://cleantechnica.com/category/battery-storage/)
+2025-04-21 17:25:45,342 - INFO - Scraping: https://cleantechnica.com/category/clean-transport/electric-vehicles/
+2025-04-21 17:25:45,386 - ERROR - Failed to retrieve https://cleantechnica.com/category/clean-transport/electric-vehicles/: Status code 403
+2025-04-21 17:25:45,390 - WARNING - Failed to extract content from: CleanTechnica EVs (https://cleantechnica.com/category/clean-transport/electric-vehicles/)
+2025-04-21 17:25:47,229 - INFO - Scraping: https://cleantechnica.com/category/clean-transport/electric-car-benefits/
+2025-04-21 17:25:47,278 - ERROR - Failed to retrieve https://cleantechnica.com/category/clean-transport/electric-car-benefits/: Status code 403
+2025-04-21 17:25:47,283 - WARNING - Failed to extract content from: CleanTechnica EV Benefits (https://cleantechnica.com/category/clean-transport/electric-car-benefits/)
+2025-04-21 17:25:50,090 - INFO - Scraping: https://cleantechnica.com/category/clean-transport/electric-vehicles/electric-vehicle-charging/
+2025-04-21 17:25:50,136 - ERROR - Failed to retrieve https://cleantechnica.com/category/clean-transport/electric-vehicles/electric-vehicle-charging/: Status code 403
+2025-04-21 17:25:50,164 - WARNING - Failed to extract content from: CleanTechnica EV Charging (https://cleantechnica.com/category/clean-transport/electric-vehicles/electric-vehicle-charging/)
+2025-04-21 17:25:50,165 - INFO - Progress: 15/90 URLs processed (16.7%)
+2025-04-21 17:25:51,194 - INFO - Scraping: https://auto.economictimes.indiatimes.com/tag/electric+vehicles
+2025-04-21 17:25:52,793 - INFO - Successfully scraped: ET Auto EV Tag (https://auto.economictimes.indiatimes.com/tag/electric+vehicles) - Saved to scraped_data\auto_economictimes_indiatimes_com.csv
+2025-04-21 17:25:55,006 - INFO - Scraping: https://auto.economictimes.indiatimes.com/tag/ev+battery
+2025-04-21 17:25:58,287 - INFO - Successfully scraped: ET Auto EV Battery (https://auto.economictimes.indiatimes.com/tag/ev+battery) - Saved to scraped_data\auto_economictimes_indiatimes_com.csv
+2025-04-21 17:26:00,538 - INFO - Scraping: https://auto.economictimes.indiatimes.com/tag/ev+charging
+2025-04-21 17:26:02,135 - INFO - Successfully scraped: ET Auto EV Charging (https://auto.economictimes.indiatimes.com/tag/ev+charging) - Saved to scraped_data\auto_economictimes_indiatimes_com.csv
+2025-04-21 17:26:04,604 - INFO - Scraping: https://auto.economictimes.indiatimes.com/tag/ev+policy
+2025-04-21 17:26:06,417 - INFO - Successfully scraped: ET Auto EV Policy (https://auto.economictimes.indiatimes.com/tag/ev+policy) - Saved to scraped_data\auto_economictimes_indiatimes_com.csv
+2025-04-21 17:26:08,195 - INFO - Scraping: https://auto.economictimes.indiatimes.com/tag/ev+manufacturing
+2025-04-21 17:26:11,978 - INFO - Successfully scraped: ET Auto EV Manufacturing (https://auto.economictimes.indiatimes.com/tag/ev+manufacturing) - Saved to scraped_data\auto_economictimes_indiatimes_com.csv
+2025-04-21 17:26:11,978 - INFO - Progress: 20/90 URLs processed (22.2%)
+2025-04-21 17:26:14,250 - INFO - Scraping: https://www.autocarindia.com/car-news/electric-vehicles
+2025-04-21 17:26:15,509 - INFO - Successfully scraped: Autocar India EV News (https://www.autocarindia.com/car-news/electric-vehicles) - Saved to scraped_data\autocarindia_com.csv
+2025-04-21 17:26:16,944 - INFO - Scraping: https://www.autocarindia.com/car-reviews/electric-vehicles
+2025-04-21 17:26:17,174 - INFO - Successfully scraped: Autocar India EV Reviews (https://www.autocarindia.com/car-reviews/electric-vehicles) - Saved to scraped_data\autocarindia_com.csv
+2025-04-21 17:26:18,667 - INFO - Scraping: https://www.autocarindia.com/car-comparisons/electric-vehicles
+2025-04-21 17:26:18,711 - ERROR - Failed to retrieve https://www.autocarindia.com/car-comparisons/electric-vehicles: Status code 404
+2025-04-21 17:26:18,714 - WARNING - Failed to extract content from: Autocar India EV Comparisons (https://www.autocarindia.com/car-comparisons/electric-vehicles)
+2025-04-21 17:26:21,238 - INFO - Scraping: https://www.autocarindia.com/auto-features/electric-vehicles
+2025-04-21 17:26:21,392 - INFO - Successfully scraped: Autocar India EV Features (https://www.autocarindia.com/auto-features/electric-vehicles) - Saved to scraped_data\autocarindia_com.csv
+2025-04-21 17:26:23,824 - INFO - Scraping: https://www.autocarindia.com/car-news/ev-charging-infrastructure
+2025-04-21 17:26:24,202 - INFO - Successfully scraped: Autocar India EV Charging (https://www.autocarindia.com/car-news/ev-charging-infrastructure) - Saved to scraped_data\autocarindia_com.csv
+2025-04-21 17:26:24,202 - INFO - Progress: 25/90 URLs processed (27.8%)
+2025-04-21 17:26:27,202 - INFO - Scraping: https://www.plugshare.com/directory/india
+2025-04-21 17:26:28,040 - ERROR - Failed to retrieve https://www.plugshare.com/directory/india: Status code 404
+2025-04-21 17:26:28,044 - WARNING - Failed to extract content from: PlugShare India Directory (https://www.plugshare.com/directory/india)
+2025-04-21 17:26:29,883 - INFO - Scraping: https://www.plugshare.com/location/india/delhi
+2025-04-21 17:26:30,707 - WARNING - Failed to extract content from: PlugShare Delhi (https://www.plugshare.com/location/india/delhi)
+2025-04-21 17:26:32,516 - INFO - Scraping: https://www.plugshare.com/location/india/mumbai
+2025-04-21 17:26:33,352 - WARNING - Failed to extract content from: PlugShare Mumbai (https://www.plugshare.com/location/india/mumbai)
+2025-04-21 17:26:35,564 - INFO - Scraping: https://www.plugshare.com/location/india/bangalore
+2025-04-21 17:26:36,443 - WARNING - Failed to extract content from: PlugShare Bangalore (https://www.plugshare.com/location/india/bangalore)
+2025-04-21 17:26:38,346 - INFO - Scraping: https://www.plugshare.com/route
+2025-04-21 17:26:39,188 - WARNING - Failed to extract content from: PlugShare Route (https://www.plugshare.com/route)
+2025-04-21 17:26:39,189 - INFO - Progress: 30/90 URLs processed (33.3%)
+2025-04-21 17:26:41,387 - INFO - Scraping: https://charzer.com/ev-charging-stations
+2025-04-21 17:26:41,707 - INFO - Successfully scraped: Charzer Stations (https://charzer.com/ev-charging-stations) - Saved to scraped_data\charzer_com.csv
+2025-04-21 17:26:42,939 - INFO - Scraping: https://charzer.com/about-us
+2025-04-21 17:26:43,071 - ERROR - Failed to retrieve https://charzer.com/about-us: Status code 404
+2025-04-21 17:26:43,072 - WARNING - Failed to extract content from: Charzer About (https://charzer.com/about-us)
+2025-04-21 17:26:44,193 - INFO - Scraping: https://charzer.com/business-solutions
+2025-04-21 17:26:44,321 - ERROR - Failed to retrieve https://charzer.com/business-solutions: Status code 404
+2025-04-21 17:26:44,322 - WARNING - Failed to extract content from: Charzer Business (https://charzer.com/business-solutions)
+2025-04-21 17:26:46,261 - INFO - Scraping: https://charzer.com/blog
+2025-04-21 17:26:46,587 - INFO - Successfully scraped: Charzer Blog (https://charzer.com/blog) - Saved to scraped_data\charzer_com.csv
+2025-04-21 17:26:48,745 - INFO - Scraping: https://charzer.com/contact
+2025-04-21 17:26:48,976 - INFO - Successfully scraped: Charzer Contact (https://charzer.com/contact) - Saved to scraped_data\charzer_com.csv
+2025-04-21 17:26:48,976 - INFO - Progress: 35/90 URLs processed (38.9%)
+2025-04-21 17:26:51,166 - INFO - Scraping: https://www.tatapower.com/products-and-services/ev-charging.aspx
+2025-04-21 17:26:51,265 - ERROR - Failed to retrieve https://www.tatapower.com/products-and-services/ev-charging.aspx: Status code 404
+2025-04-21 17:26:51,268 - WARNING - Failed to extract content from: Tata Power EV Charging (https://www.tatapower.com/products-and-services/ev-charging.aspx)
+2025-04-21 17:26:53,931 - INFO - Scraping: https://www.tatapower.com/products-and-services/ev-charging/charging-locations.aspx
+2025-04-21 17:26:54,009 - ERROR - Failed to retrieve https://www.tatapower.com/products-and-services/ev-charging/charging-locations.aspx: Status code 404
+2025-04-21 17:26:54,012 - WARNING - Failed to extract content from: Tata Power Charging Locations (https://www.tatapower.com/products-and-services/ev-charging/charging-locations.aspx)
+2025-04-21 17:26:55,505 - INFO - Scraping: https://www.tatapower.com/products-and-services/ev-charging/ezcharge-app.aspx
+2025-04-21 17:26:55,571 - ERROR - Failed to retrieve https://www.tatapower.com/products-and-services/ev-charging/ezcharge-app.aspx: Status code 404
+2025-04-21 17:26:55,574 - WARNING - Failed to extract content from: Tata Power EZCharge App (https://www.tatapower.com/products-and-services/ev-charging/ezcharge-app.aspx)
+2025-04-21 17:26:57,609 - INFO - Scraping: https://www.tatapower.com/products-and-services/ev-charging/home-charging.aspx
+2025-04-21 17:26:57,713 - ERROR - Failed to retrieve https://www.tatapower.com/products-and-services/ev-charging/home-charging.aspx: Status code 404
+2025-04-21 17:26:57,720 - WARNING - Failed to extract content from: Tata Power Home Charging (https://www.tatapower.com/products-and-services/ev-charging/home-charging.aspx)
+2025-04-21 17:27:00,724 - INFO - Scraping: https://www.tatapower.com/products-and-services/ev-charging/commercial-charging.aspx
+2025-04-21 17:27:00,805 - ERROR - Failed to retrieve https://www.tatapower.com/products-and-services/ev-charging/commercial-charging.aspx: Status code 404
+2025-04-21 17:27:00,813 - WARNING - Failed to extract content from: Tata Power Commercial Charging (https://www.tatapower.com/products-and-services/ev-charging/commercial-charging.aspx)
+2025-04-21 17:27:00,837 - INFO - Progress: 40/90 URLs processed (44.4%)
+2025-04-21 17:27:03,374 - INFO - Scraping: https://statiq.in/overview
+2025-04-21 17:27:04,794 - INFO - Successfully scraped: Statiq Overview (https://statiq.in/overview) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:27:05,835 - INFO - Scraping: https://statiq.in/products
+2025-04-21 17:27:05,979 - INFO - Successfully scraped: Statiq Products (https://statiq.in/products) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:27:08,914 - INFO - Scraping: https://statiq.in/blog
+2025-04-21 17:27:09,090 - INFO - Successfully scraped: Statiq Blog (https://statiq.in/blog) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:27:10,826 - INFO - Scraping: https://statiq.in/locate-charger
+2025-04-21 17:27:11,099 - INFO - Successfully scraped: Statiq Locate Charger (https://statiq.in/locate-charger) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:27:12,509 - INFO - Scraping: https://statiq.in/fleet-solutions
+2025-04-21 17:27:12,830 - INFO - Successfully scraped: Statiq Fleet Solutions (https://statiq.in/fleet-solutions) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:27:12,830 - INFO - Progress: 45/90 URLs processed (50.0%)
+2025-04-21 17:27:14,292 - INFO - Scraping: https://www.team-bhp.com/forum/electric-cars/
+2025-04-21 17:27:14,778 - INFO - Successfully scraped: Team-BHP Electric Cars (https://www.team-bhp.com/forum/electric-cars/) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 17:27:16,118 - INFO - Scraping: https://www.team-bhp.com/forum/electric-cars-alternate-fuels/
+2025-04-21 17:27:16,291 - ERROR - Failed to retrieve https://www.team-bhp.com/forum/electric-cars-alternate-fuels/: Status code 404
+2025-04-21 17:27:16,298 - WARNING - Failed to extract content from: Team-BHP Alt Fuels (https://www.team-bhp.com/forum/electric-cars-alternate-fuels/)
+2025-04-21 17:27:17,566 - INFO - Scraping: https://www.team-bhp.com/forum/official-new-car-reviews/
+2025-04-21 17:27:18,363 - INFO - Successfully scraped: Team-BHP Car Reviews (https://www.team-bhp.com/forum/official-new-car-reviews/) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 17:27:20,600 - INFO - Scraping: https://www.team-bhp.com/forum/buying-car/
+2025-04-21 17:27:20,982 - INFO - Successfully scraped: Team-BHP Car Buying (https://www.team-bhp.com/forum/buying-car/) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 17:27:23,315 - INFO - Scraping: https://www.team-bhp.com/forum/road-trips/
+2025-04-21 17:27:23,499 - ERROR - Failed to retrieve https://www.team-bhp.com/forum/road-trips/: Status code 404
+2025-04-21 17:27:23,511 - WARNING - Failed to extract content from: Team-BHP Road Trips (https://www.team-bhp.com/forum/road-trips/)
+2025-04-21 17:27:23,524 - INFO - Progress: 50/90 URLs processed (55.6%)
+2025-04-21 17:27:25,563 - INFO - Scraping: https://www.reddit.com/r/electricvehicles/top/?t=year
+2025-04-21 17:27:28,491 - INFO - Successfully scraped: Reddit EV Top (https://www.reddit.com/r/electricvehicles/top/?t=year) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:27:30,634 - INFO - Scraping: https://www.reddit.com/r/electricvehicles/search/?q=charging&restrict_sr=1
+2025-04-21 17:27:32,997 - INFO - Successfully scraped: Reddit EV Charging (https://www.reddit.com/r/electricvehicles/search/?q=charging&restrict_sr=1) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:27:34,301 - INFO - Scraping: https://www.reddit.com/r/electricvehicles/search/?q=battery&restrict_sr=1
+2025-04-21 17:27:36,346 - INFO - Successfully scraped: Reddit EV Battery (https://www.reddit.com/r/electricvehicles/search/?q=battery&restrict_sr=1) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:27:37,661 - INFO - Scraping: https://www.reddit.com/r/electricvehicles/search/?q=range&restrict_sr=1
+2025-04-21 17:27:40,091 - INFO - Successfully scraped: Reddit EV Range (https://www.reddit.com/r/electricvehicles/search/?q=range&restrict_sr=1) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:27:41,702 - INFO - Scraping: https://www.reddit.com/r/electricvehicles/wiki/index/
+2025-04-21 17:27:43,804 - INFO - Successfully scraped: Reddit EV Wiki (https://www.reddit.com/r/electricvehicles/wiki/index/) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:27:43,804 - INFO - Progress: 55/90 URLs processed (61.1%)
+2025-04-21 17:27:46,768 - INFO - Scraping: https://www.reddit.com/r/IndianEVs/top/?t=year
+2025-04-21 17:27:48,459 - INFO - Successfully scraped: Reddit Indian EVs Top (https://www.reddit.com/r/IndianEVs/top/?t=year) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:27:51,092 - INFO - Scraping: https://www.reddit.com/r/IndianEVs/search/?q=charging&restrict_sr=1
+2025-04-21 17:27:53,206 - INFO - Successfully scraped: Reddit Indian EVs Charging (https://www.reddit.com/r/IndianEVs/search/?q=charging&restrict_sr=1) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:27:54,451 - INFO - Scraping: https://www.reddit.com/r/IndianEVs/search/?q=battery&restrict_sr=1
+2025-04-21 17:27:56,417 - INFO - Successfully scraped: Reddit Indian EVs Battery (https://www.reddit.com/r/IndianEVs/search/?q=battery&restrict_sr=1) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:27:57,962 - INFO - Scraping: https://www.reddit.com/r/IndianEVs/search/?q=range&restrict_sr=1
+2025-04-21 17:27:59,621 - INFO - Successfully scraped: Reddit Indian EVs Range (https://www.reddit.com/r/IndianEVs/search/?q=range&restrict_sr=1) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:28:01,477 - INFO - Scraping: https://www.reddit.com/r/IndianEVs/search/?q=price&restrict_sr=1
+2025-04-21 17:28:03,131 - INFO - Successfully scraped: Reddit Indian EVs Price (https://www.reddit.com/r/IndianEVs/search/?q=price&restrict_sr=1) - Saved to scraped_data\reddit_com.csv
+2025-04-21 17:28:03,131 - INFO - Progress: 60/90 URLs processed (66.7%)
+2025-04-21 17:28:04,891 - INFO - Scraping: https://www.cardekho.com/electric-cars
+2025-04-21 17:28:07,033 - INFO - Successfully scraped: CarDekho Electric Cars (https://www.cardekho.com/electric-cars) - Saved to scraped_data\cardekho_com.csv
+2025-04-21 17:28:10,014 - INFO - Scraping: https://www.cardekho.com/electric-cars/best-electric-cars-in-india
+2025-04-21 17:28:10,448 - INFO - Successfully scraped: CarDekho Best EVs (https://www.cardekho.com/electric-cars/best-electric-cars-in-india) - Saved to scraped_data\cardekho_com.csv
+2025-04-21 17:28:11,936 - INFO - Scraping: https://www.cardekho.com/electric-cars/upcoming
+2025-04-21 17:28:12,384 - INFO - Successfully scraped: CarDekho Upcoming EVs (https://www.cardekho.com/electric-cars/upcoming) - Saved to scraped_data\cardekho_com.csv
+2025-04-21 17:28:14,562 - INFO - Scraping: https://www.cardekho.com/electric-cars/under-20-lakh
+2025-04-21 17:28:14,900 - INFO - Successfully scraped: CarDekho EVs Under 20L (https://www.cardekho.com/electric-cars/under-20-lakh) - Saved to scraped_data\cardekho_com.csv
+2025-04-21 17:28:17,310 - INFO - Scraping: https://www.cardekho.com/electric-cars/battery-capacity
+2025-04-21 17:28:17,672 - INFO - Successfully scraped: CarDekho EVs By Battery (https://www.cardekho.com/electric-cars/battery-capacity) - Saved to scraped_data\cardekho_com.csv
+2025-04-21 17:28:17,673 - INFO - Progress: 65/90 URLs processed (72.2%)
+2025-04-21 17:28:19,959 - INFO - Scraping: https://droom.in/electric-vehicles
+2025-04-21 17:28:22,150 - INFO - Successfully scraped: Droom EVs (https://droom.in/electric-vehicles) - Saved to scraped_data\droom_in.csv
+2025-04-21 17:28:25,104 - INFO - Scraping: https://droom.in/new-cars/body-type/electric
+2025-04-21 17:28:26,945 - INFO - Successfully scraped: Droom New EVs (https://droom.in/new-cars/body-type/electric) - Saved to scraped_data\droom_in.csv
+2025-04-21 17:28:28,692 - INFO - Scraping: https://droom.in/blog/tags/electric-vehicles
+2025-04-21 17:28:29,557 - ERROR - Failed to retrieve https://droom.in/blog/tags/electric-vehicles: Status code 404
+2025-04-21 17:28:29,559 - WARNING - Failed to extract content from: Droom EV Blog (https://droom.in/blog/tags/electric-vehicles)
+2025-04-21 17:28:30,834 - INFO - Scraping: https://droom.in/cars/body-type/electric
+2025-04-21 17:28:42,651 - INFO - Successfully scraped: Droom EV Cars (https://droom.in/cars/body-type/electric) - Saved to scraped_data\droom_in.csv
+2025-04-21 17:28:45,499 - INFO - Scraping: https://droom.in/tools-and-services
+2025-04-21 17:28:46,604 - ERROR - Failed to retrieve https://droom.in/tools-and-services: Status code 404
+2025-04-21 17:28:46,607 - WARNING - Failed to extract content from: Droom Tools (https://droom.in/tools-and-services)
+2025-04-21 17:28:46,609 - INFO - Progress: 70/90 URLs processed (77.8%)
+2025-04-21 17:28:48,122 - INFO - Scraping: https://www.spinny.com/blog/category/car-guide/electric-cars/
+2025-04-21 17:28:48,978 - ERROR - Failed to retrieve https://www.spinny.com/blog/category/car-guide/electric-cars/: Status code 404
+2025-04-21 17:28:48,986 - WARNING - Failed to extract content from: Spinny EV Guide (https://www.spinny.com/blog/category/car-guide/electric-cars/)
+2025-04-21 17:28:50,491 - INFO - Scraping: https://www.spinny.com/blog/all-about-electric-cars-in-india/
+2025-04-21 17:28:51,337 - ERROR - Failed to retrieve https://www.spinny.com/blog/all-about-electric-cars-in-india/: Status code 404
+2025-04-21 17:28:51,340 - WARNING - Failed to extract content from: Spinny All About EVs (https://www.spinny.com/blog/all-about-electric-cars-in-india/)
+2025-04-21 17:28:52,463 - INFO - Scraping: https://www.spinny.com/blog/ev-charging-stations-delhi-ncr/
+2025-04-21 17:28:53,272 - ERROR - Failed to retrieve https://www.spinny.com/blog/ev-charging-stations-delhi-ncr/: Status code 404
+2025-04-21 17:28:53,276 - WARNING - Failed to extract content from: Spinny EV Charging Delhi (https://www.spinny.com/blog/ev-charging-stations-delhi-ncr/)
+2025-04-21 17:28:55,887 - INFO - Scraping: https://www.spinny.com/used-car-search
+2025-04-21 17:28:55,951 - ERROR - Failed to retrieve https://www.spinny.com/used-car-search: Status code 404
+2025-04-21 17:28:55,953 - WARNING - Failed to extract content from: Spinny Used Cars (https://www.spinny.com/used-car-search)
+2025-04-21 17:28:58,875 - INFO - Scraping: https://www.spinny.com/used-electric-cars
+2025-04-21 17:28:59,004 - ERROR - Failed to retrieve https://www.spinny.com/used-electric-cars: Status code 404
+2025-04-21 17:28:59,008 - WARNING - Failed to extract content from: Spinny Used EVs (https://www.spinny.com/used-electric-cars)
+2025-04-21 17:28:59,015 - INFO - Progress: 75/90 URLs processed (83.3%)
+2025-04-21 17:29:00,290 - INFO - Scraping: https://www.cars24.com/blog/electric-cars-in-india/
+2025-04-21 17:29:02,488 - INFO - Successfully scraped: Cars24 EVs in India (https://www.cars24.com/blog/electric-cars-in-india/) - Saved to scraped_data\cars24_com.csv
+2025-04-21 17:29:03,866 - INFO - Scraping: https://www.cars24.com/blog/best-electric-cars-in-india/
+2025-04-21 17:29:04,297 - INFO - Successfully scraped: Cars24 Best EVs (https://www.cars24.com/blog/best-electric-cars-in-india/) - Saved to scraped_data\cars24_com.csv
+2025-04-21 17:29:05,634 - INFO - Scraping: https://www.cars24.com/blog/electric-car-charging-stations-in-india/
+2025-04-21 17:29:05,779 - ERROR - Failed to retrieve https://www.cars24.com/blog/electric-car-charging-stations-in-india/: Status code 404
+2025-04-21 17:29:05,781 - WARNING - Failed to extract content from: Cars24 EV Charging (https://www.cars24.com/blog/electric-car-charging-stations-in-india/)
+2025-04-21 17:29:07,177 - INFO - Scraping: https://www.cars24.com/blog/electric-car-battery-replacement-cost/
+2025-04-21 17:29:07,300 - ERROR - Failed to retrieve https://www.cars24.com/blog/electric-car-battery-replacement-cost/: Status code 404
+2025-04-21 17:29:07,302 - WARNING - Failed to extract content from: Cars24 EV Battery Cost (https://www.cars24.com/blog/electric-car-battery-replacement-cost/)
+2025-04-21 17:29:09,244 - INFO - Scraping: https://www.cars24.com/blog/upcoming-electric-cars-in-india/
+2025-04-21 17:29:09,392 - ERROR - Failed to retrieve https://www.cars24.com/blog/upcoming-electric-cars-in-india/: Status code 404
+2025-04-21 17:29:09,394 - WARNING - Failed to extract content from: Cars24 Upcoming EVs (https://www.cars24.com/blog/upcoming-electric-cars-in-india/)
+2025-04-21 17:29:09,395 - INFO - Progress: 80/90 URLs processed (88.9%)
+2025-04-21 17:29:11,385 - INFO - Scraping: https://www.tripoto.com/search?q=electric+vehicle+road+trip
+2025-04-21 17:29:12,117 - INFO - Successfully scraped: Tripoto EV Road Trip (https://www.tripoto.com/search?q=electric+vehicle+road+trip) - Saved to scraped_data\tripoto_com.csv
+2025-04-21 17:29:15,060 - INFO - Scraping: https://www.tripoto.com/search?q=ev+charging+stations
+2025-04-21 17:29:15,615 - INFO - Successfully scraped: Tripoto EV Charging (https://www.tripoto.com/search?q=ev+charging+stations) - Saved to scraped_data\tripoto_com.csv
+2025-04-21 17:29:16,864 - INFO - Scraping: https://www.tripoto.com/search?q=electric+car+travel
+2025-04-21 17:29:17,330 - INFO - Successfully scraped: Tripoto EV Travel (https://www.tripoto.com/search?q=electric+car+travel) - Saved to scraped_data\tripoto_com.csv
+2025-04-21 17:29:19,941 - INFO - Scraping: https://www.tripoto.com/search?q=sustainable+travel
+2025-04-21 17:29:20,413 - INFO - Successfully scraped: Tripoto Sustainable Travel (https://www.tripoto.com/search?q=sustainable+travel) - Saved to scraped_data\tripoto_com.csv
+2025-04-21 17:29:22,388 - INFO - Scraping: https://www.tripoto.com/search?q=green+road+trip
+2025-04-21 17:29:23,128 - INFO - Successfully scraped: Tripoto Green Road Trip (https://www.tripoto.com/search?q=green+road+trip) - Saved to scraped_data\tripoto_com.csv
+2025-04-21 17:29:23,129 - INFO - Progress: 85/90 URLs processed (94.4%)
+2025-04-21 17:29:25,102 - INFO - Scraping: https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=electric
+2025-04-21 17:29:25,495 - INFO - Successfully scraped: Team-BHP EV Travelogues (https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=electric) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 17:29:27,400 - INFO - Scraping: https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=ev
+2025-04-21 17:29:27,646 - INFO - Successfully scraped: Team-BHP EV Tag (https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=ev) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 17:29:28,835 - INFO - Scraping: https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=charging
+2025-04-21 17:29:29,146 - INFO - Successfully scraped: Team-BHP Charging Travelogues (https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=charging) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 17:29:30,662 - INFO - Scraping: https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=battery
+2025-04-21 17:29:30,975 - INFO - Successfully scraped: Team-BHP Battery Travelogues (https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=battery) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 17:29:32,081 - INFO - Scraping: https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=road+trip
+2025-04-21 17:29:32,345 - INFO - Successfully scraped: Team-BHP Road Trip (https://www.team-bhp.com/forum/travelogues/search.php?searchid=tag&tag=road+trip) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 17:29:32,345 - INFO - Progress: 90/90 URLs processed (100.0%)
+2025-04-21 17:29:32,346 - INFO - Scraping complete. Results saved to domain-specific files in scraped_data directory
+2025-04-21 17:31:58,301 - INFO - Scraping: https://www.statiq.in/DC-Chargers
+2025-04-21 17:31:58,414 - INFO - Successfully scraped: Statiq DC (https://www.statiq.in/DC-Chargers) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:32:00,273 - INFO - Scraping: https://www.statiq.in/22kW
+2025-04-21 17:32:00,369 - INFO - Successfully scraped: Statiq 22Kw (https://www.statiq.in/22kW) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:32:03,357 - INFO - Scraping: https://www.statiq.in/ev-charging-station
+2025-04-21 17:32:03,509 - INFO - Successfully scraped: Statiq stations (https://www.statiq.in/ev-charging-station) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:32:03,509 - INFO - Progress: 3/3 URLs processed (100.0%)
+2025-04-21 17:32:03,510 - INFO - Scraping complete. Results saved to domain-specific files in scraped_data directory
+2025-04-21 17:33:50,011 - INFO - Scraping: https://www.statiq.in/Statiq-Circle
+2025-04-21 17:33:50,141 - INFO - Successfully scraped: Statiq Circle (https://www.statiq.in/Statiq-Circle) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:33:51,887 - INFO - Scraping: https://www.statiq.in/60KW
+2025-04-21 17:33:51,991 - INFO - Successfully scraped: Statiq 60Kw (https://www.statiq.in/60KW) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:33:54,097 - INFO - Scraping: https://www.statiq.in/ev-charging-solutions
+2025-04-21 17:33:54,222 - INFO - Successfully scraped: Statiq Soln (https://www.statiq.in/ev-charging-solutions) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:33:56,479 - INFO - Scraping: https://www.statiq.in/DC-Chargers
+2025-04-21 17:33:56,595 - INFO - Successfully scraped: Statiq DC (https://www.statiq.in/DC-Chargers) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:33:59,271 - INFO - Scraping: https://www.statiq.in/22kW
+2025-04-21 17:33:59,387 - INFO - Successfully scraped: Statiq 22Kw (https://www.statiq.in/22kW) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:33:59,387 - INFO - Progress: 5/6 URLs processed (83.3%)
+2025-04-21 17:34:02,259 - INFO - Scraping: https://www.statiq.in/ev-charging-station
+2025-04-21 17:34:02,448 - INFO - Successfully scraped: Statiq stations (https://www.statiq.in/ev-charging-station) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:34:02,449 - INFO - Progress: 6/6 URLs processed (100.0%)
+2025-04-21 17:34:02,449 - INFO - Scraping complete. Results saved to domain-specific files in scraped_data directory
+2025-04-21 17:34:11,743 - INFO - Scraping: https://www.statiq.in/Statiq-Circle
+2025-04-21 17:34:11,868 - INFO - Successfully scraped: Statiq Circle (https://www.statiq.in/Statiq-Circle) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:34:13,450 - INFO - Scraping: https://www.statiq.in/60KW
+2025-04-21 17:34:13,573 - INFO - Successfully scraped: Statiq 60Kw (https://www.statiq.in/60KW) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:34:15,726 - INFO - Scraping: https://www.statiq.in/ev-charging-solutions
+2025-04-21 17:34:15,832 - INFO - Successfully scraped: Statiq Soln (https://www.statiq.in/ev-charging-solutions) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:34:18,152 - INFO - Scraping: https://www.statiq.in/DC-Chargers
+2025-04-21 17:34:18,250 - INFO - Successfully scraped: Statiq DC (https://www.statiq.in/DC-Chargers) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:34:19,951 - INFO - Scraping: https://www.statiq.in/22kW
+2025-04-21 17:34:20,083 - INFO - Successfully scraped: Statiq 22Kw (https://www.statiq.in/22kW) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:34:20,093 - INFO - Progress: 5/6 URLs processed (83.3%)
+2025-04-21 17:34:22,848 - INFO - Scraping: https://www.statiq.in/ev-charging-station
+2025-04-21 17:34:23,034 - INFO - Successfully scraped: Statiq stations (https://www.statiq.in/ev-charging-station) - Saved to scraped_data\statiq_in.csv
+2025-04-21 17:34:23,034 - INFO - Progress: 6/6 URLs processed (100.0%)
+2025-04-21 17:34:23,034 - INFO - Scraping complete. Results saved to domain-specific files in scraped_data directory
+2025-04-21 17:39:28,770 - INFO - Scraping: https://cleantechnica.com/tag/ev-sales/
+2025-04-21 17:39:30,062 - ERROR - Failed to retrieve https://cleantechnica.com/tag/ev-sales/: Status code 403
+2025-04-21 17:39:30,064 - WARNING - Failed to extract content from: EV Sales (https://cleantechnica.com/tag/ev-sales/)
+2025-04-21 17:39:32,150 - INFO - Scraping: https://cleantechnica.com/tag/ev-tco/
+2025-04-21 17:39:32,192 - ERROR - Failed to retrieve https://cleantechnica.com/tag/ev-tco/: Status code 403
+2025-04-21 17:39:32,193 - WARNING - Failed to extract content from: EV TCO (https://cleantechnica.com/tag/ev-tco/)
+2025-04-21 17:39:34,066 - INFO - Scraping: https://cleantechnica.com/tag/tesla-model-3-long-term-review/
+2025-04-21 17:39:34,104 - ERROR - Failed to retrieve https://cleantechnica.com/tag/tesla-model-3-long-term-review/: Status code 403
+2025-04-21 17:39:34,105 - WARNING - Failed to extract content from: Tesla Model 3 Review (https://cleantechnica.com/tag/tesla-model-3-long-term-review/)
+2025-04-21 17:39:35,813 - INFO - Scraping: https://cleantechnica.com/tag/tesla-model-y-long-term-review/
+2025-04-21 17:39:35,849 - ERROR - Failed to retrieve https://cleantechnica.com/tag/tesla-model-y-long-term-review/: Status code 403
+2025-04-21 17:39:35,850 - WARNING - Failed to extract content from: Tesla Model Y Review (https://cleantechnica.com/tag/tesla-model-y-long-term-review/)
+2025-04-21 17:39:38,644 - INFO - Scraping: https://cleantechnica.com/tag/tesla-model-s-long-term-review/
+2025-04-21 17:39:38,679 - ERROR - Failed to retrieve https://cleantechnica.com/tag/tesla-model-s-long-term-review/: Status code 403
+2025-04-21 17:39:38,680 - WARNING - Failed to extract content from: Tesla Model S Review (https://cleantechnica.com/tag/tesla-model-s-long-term-review/)
+2025-04-21 17:39:38,682 - INFO - Progress: 5/17 URLs processed (29.4%)
+2025-04-21 17:39:40,385 - INFO - Scraping: https://cleantechnica.com/tag/chevy-bolt-euv-long-term-review/
+2025-04-21 17:39:40,421 - ERROR - Failed to retrieve https://cleantechnica.com/tag/chevy-bolt-euv-long-term-review/: Status code 403
+2025-04-21 17:39:40,422 - WARNING - Failed to extract content from: Chevy Bolt EUV Review (https://cleantechnica.com/tag/chevy-bolt-euv-long-term-review/)
+2025-04-21 17:39:42,109 - INFO - Scraping: https://cleantechnica.com/category/cleantechnica-2/cleantechnica-reviews/
+2025-04-21 17:39:42,152 - ERROR - Failed to retrieve https://cleantechnica.com/category/cleantechnica-2/cleantechnica-reviews/: Status code 403
+2025-04-21 17:39:42,181 - WARNING - Failed to extract content from: CleanTechnica Reviews (https://cleantechnica.com/category/cleantechnica-2/cleantechnica-reviews/)
+2025-04-21 17:39:44,940 - INFO - Scraping: https://cleantechnica.com/tag/BYD/
+2025-04-21 17:39:44,980 - ERROR - Failed to retrieve https://cleantechnica.com/tag/BYD/: Status code 403
+2025-04-21 17:39:44,981 - WARNING - Failed to extract content from: BYD (https://cleantechnica.com/tag/BYD/)
+2025-04-21 17:39:47,492 - INFO - Scraping: https://cleantechnica.com/tag/tesla/
+2025-04-21 17:39:47,541 - ERROR - Failed to retrieve https://cleantechnica.com/tag/tesla/: Status code 403
+2025-04-21 17:39:47,544 - WARNING - Failed to extract content from: Tesla (https://cleantechnica.com/tag/tesla/)
+2025-04-21 17:39:50,211 - INFO - Scraping: https://cleantechnica.com/category/cleantechnica-2/cleantechnica-reports/
+2025-04-21 17:39:50,253 - ERROR - Failed to retrieve https://cleantechnica.com/category/cleantechnica-2/cleantechnica-reports/: Status code 403
+2025-04-21 17:39:50,255 - WARNING - Failed to extract content from: CleanTechnica Reports (https://cleantechnica.com/category/cleantechnica-2/cleantechnica-reports/)
+2025-04-21 17:39:50,256 - INFO - Progress: 10/17 URLs processed (58.8%)
+2025-04-21 17:39:52,690 - INFO - Scraping: https://cleantechnica.com/cleantechnica-reports-guides/
+2025-04-21 17:39:52,721 - ERROR - Failed to retrieve https://cleantechnica.com/cleantechnica-reports-guides/: Status code 403
+2025-04-21 17:39:52,722 - WARNING - Failed to extract content from: Reports and Guides (https://cleantechnica.com/cleantechnica-reports-guides/)
+2025-04-21 17:39:55,041 - INFO - Scraping: https://cleantechnica.com/cleantech-talk/
+2025-04-21 17:39:55,084 - ERROR - Failed to retrieve https://cleantechnica.com/cleantech-talk/: Status code 403
+2025-04-21 17:39:55,086 - WARNING - Failed to extract content from: CleanTech Talk (https://cleantechnica.com/cleantech-talk/)
+2025-04-21 17:39:56,821 - INFO - Scraping: https://cleantechnica.com/ev-fleet-charging/
+2025-04-21 17:39:56,854 - ERROR - Failed to retrieve https://cleantechnica.com/ev-fleet-charging/: Status code 403
+2025-04-21 17:39:56,855 - WARNING - Failed to extract content from: EV Fleet Charging (https://cleantechnica.com/ev-fleet-charging/)
+2025-04-21 17:39:57,983 - INFO - Scraping: https://cleantechnica.com/battery-powered-ev-charging/
+2025-04-21 17:39:58,012 - ERROR - Failed to retrieve https://cleantechnica.com/battery-powered-ev-charging/: Status code 403
+2025-04-21 17:39:58,013 - WARNING - Failed to extract content from: Battery-Powered EV Charging (https://cleantechnica.com/battery-powered-ev-charging/)
+2025-04-21 17:40:00,687 - INFO - Scraping: https://cleantechnica.com/aftermarket-tesla-accessories/
+2025-04-21 17:40:00,737 - ERROR - Failed to retrieve https://cleantechnica.com/aftermarket-tesla-accessories/: Status code 403
+2025-04-21 17:40:00,738 - WARNING - Failed to extract content from: Aftermarket Tesla Accessories (https://cleantechnica.com/aftermarket-tesla-accessories/)
+2025-04-21 17:40:00,741 - INFO - Progress: 15/17 URLs processed (88.2%)
+2025-04-21 17:40:03,106 - INFO - Scraping: https://cleantechnica.com/best-tesla-accessories/
+2025-04-21 17:40:03,156 - ERROR - Failed to retrieve https://cleantechnica.com/best-tesla-accessories/: Status code 403
+2025-04-21 17:40:03,158 - WARNING - Failed to extract content from: Best Tesla Accessories (https://cleantechnica.com/best-tesla-accessories/)
+2025-04-21 17:40:05,058 - INFO - Scraping: https://cleantechnica.com/home-efficiency/
+2025-04-21 17:40:05,094 - ERROR - Failed to retrieve https://cleantechnica.com/home-efficiency/: Status code 403
+2025-04-21 17:40:05,095 - WARNING - Failed to extract content from: Home Efficiency (https://cleantechnica.com/home-efficiency/)
+2025-04-21 17:40:05,096 - INFO - Progress: 17/17 URLs processed (100.0%)
+2025-04-21 17:40:05,096 - INFO - Scraping complete. Results saved to domain-specific files in scraped_data directory
+2025-04-21 17:44:14,110 - INFO - Scraping: https://blog.google/products/maps/charge-it-new-maps-features-electric-vehicles/
+2025-04-21 17:44:15,147 - INFO - Successfully scraped: Google Maps EV Routing Features (https://blog.google/products/maps/charge-it-new-maps-features-electric-vehicles/) - Saved to scraped_data\blog_google.csv
+2025-04-21 17:44:17,023 - INFO - Scraping: https://www.mymobileindia.com/google-maps-ev-charging-station-locator/
+2025-04-21 17:44:19,687 - INFO - Successfully scraped: EV Charging Station Locator (https://www.mymobileindia.com/google-maps-ev-charging-station-locator/) - Saved to scraped_data\mymobileindia_com.csv
+2025-04-21 17:44:22,516 - INFO - Scraping: https://auto.hindustantimes.com/auto/two-wheelers/google-maps-gets-new-features-specifically-for-india-check-them-out-41721986502177.html
+2025-04-21 17:44:22,865 - INFO - Successfully scraped: Google Maps EV Charging Stations in India (https://auto.hindustantimes.com/auto/two-wheelers/google-maps-gets-new-features-specifically-for-india-check-them-out-41721986502177.html) - Saved to scraped_data\auto_hindustantimes_com.csv
+2025-04-21 17:44:25,390 - INFO - Scraping: https://blog.google/intl/en-in/products/explore-communicate/six-ways-were-enabling-more-efficient-and-sustainable-journeys-on-google-maps-in-india-powered-by-ai-and-local-partners/
+2025-04-21 17:44:26,159 - INFO - Successfully scraped: Google Maps EV Features in India (https://blog.google/intl/en-in/products/explore-communicate/six-ways-were-enabling-more-efficient-and-sustainable-journeys-on-google-maps-in-india-powered-by-ai-and-local-partners/) - Saved to scraped_data\blog_google.csv
+2025-04-21 17:44:28,489 - INFO - Scraping: https://twitter.com/search?q=%23EVIndia&src=typed_query
+2025-04-21 17:44:29,333 - INFO - Successfully scraped: #EVIndia Hashtag (https://twitter.com/search?q=%23EVIndia&src=typed_query) - Saved to scraped_data\twitter_com.csv
+2025-04-21 17:44:29,337 - INFO - Progress: 5/19 URLs processed (26.3%)
+2025-04-21 17:44:32,120 - INFO - Scraping: https://twitter.com/search?q=%23ElectricVehicles&src=typed_query
+2025-04-21 17:44:32,741 - INFO - Successfully scraped: #ElectricVehicles Hashtag (https://twitter.com/search?q=%23ElectricVehicles&src=typed_query) - Saved to scraped_data\twitter_com.csv
+2025-04-21 17:44:34,157 - INFO - Scraping: https://twitter.com/search?q=%23GoElectric&src=typed_query
+2025-04-21 17:44:34,757 - INFO - Successfully scraped: #GoElectric Hashtag (https://twitter.com/search?q=%23GoElectric&src=typed_query) - Saved to scraped_data\twitter_com.csv
+2025-04-21 17:44:37,543 - INFO - Scraping: https://twitter.com/i/communities/1512345678901234567
+2025-04-21 17:44:38,136 - INFO - Successfully scraped: EV India Twitter Community (https://twitter.com/i/communities/1512345678901234567) - Saved to scraped_data\twitter_com.csv
+2025-04-21 17:44:40,964 - INFO - Scraping: https://twitter.com/i/lists/1234567890123456789
+2025-04-21 17:44:41,978 - INFO - Successfully scraped: EV News India Twitter List (https://twitter.com/i/lists/1234567890123456789) - Saved to scraped_data\twitter_com.csv
+2025-04-21 17:44:44,093 - INFO - Scraping: https://www.youtube.com/c/PluginIndia
+2025-04-21 17:44:44,655 - INFO - Successfully scraped: PluginIndia YouTube Channel (https://www.youtube.com/c/PluginIndia) - Saved to scraped_data\youtube_com.csv
+2025-04-21 17:44:44,656 - INFO - Progress: 10/19 URLs processed (52.6%)
+2025-04-21 17:44:46,127 - INFO - Scraping: https://www.youtube.com/c/EVGyan
+2025-04-21 17:44:46,396 - ERROR - Failed to retrieve https://www.youtube.com/c/EVGyan: Status code 404
+2025-04-21 17:44:46,400 - WARNING - Failed to extract content from: EV Gyan YouTube Channel (https://www.youtube.com/c/EVGyan)
+2025-04-21 17:44:48,049 - INFO - Scraping: https://www.youtube.com/playlist?list=PLPluginIndiaEVReviews
+2025-04-21 17:44:48,276 - ERROR - Failed to retrieve https://www.youtube.com/playlist?list=PLPluginIndiaEVReviews: Status code 404
+2025-04-21 17:44:48,280 - WARNING - Failed to extract content from: PluginIndia EV Reviews (https://www.youtube.com/playlist?list=PLPluginIndiaEVReviews)
+2025-04-21 17:44:51,088 - INFO - Scraping: https://www.youtube.com/playlist?list=PLEVGyanChargingDemos
+2025-04-21 17:44:51,315 - ERROR - Failed to retrieve https://www.youtube.com/playlist?list=PLEVGyanChargingDemos: Status code 404
+2025-04-21 17:44:51,318 - WARNING - Failed to extract content from: EV Gyan Charging Demos (https://www.youtube.com/playlist?list=PLEVGyanChargingDemos)
+2025-04-21 17:44:53,127 - INFO - Scraping: https://www.youtube.com/playlist?list=PLPluginIndiaEVSafetyTips
+2025-04-21 17:44:53,318 - ERROR - Failed to retrieve https://www.youtube.com/playlist?list=PLPluginIndiaEVSafetyTips: Status code 404
+2025-04-21 17:44:53,350 - WARNING - Failed to extract content from: EV Safety Tips by PluginIndia (https://www.youtube.com/playlist?list=PLPluginIndiaEVSafetyTips)
+2025-04-21 17:44:55,057 - INFO - Scraping: https://news.google.com/search?q=EV%20India
+2025-04-21 17:44:56,399 - INFO - Successfully scraped: Google News EV India (https://news.google.com/search?q=EV%20India) - Saved to scraped_data\news_google_com.csv
+2025-04-21 17:44:56,399 - INFO - Progress: 15/19 URLs processed (78.9%)
+2025-04-21 17:44:59,085 - INFO - Scraping: https://news.google.com/search?q=Electric%20Vehicles
+2025-04-21 17:45:00,735 - INFO - Successfully scraped: Google News Electric Vehicles (https://news.google.com/search?q=Electric%20Vehicles) - Saved to scraped_data\news_google_com.csv
+2025-04-21 17:45:03,441 - INFO - Scraping: https://news.google.com/search?q=EV%20Policies%20India
+2025-04-21 17:45:04,622 - INFO - Successfully scraped: Google News EV Policies India (https://news.google.com/search?q=EV%20Policies%20India) - Saved to scraped_data\news_google_com.csv
+2025-04-21 17:45:05,723 - INFO - Scraping: https://news.google.com/search?q=EV%20Charging%20Infrastructure%20India
+2025-04-21 17:45:07,256 - INFO - Successfully scraped: Google News EV Charging Infrastructure (https://news.google.com/search?q=EV%20Charging%20Infrastructure%20India) - Saved to scraped_data\news_google_com.csv
+2025-04-21 17:45:08,587 - INFO - Scraping: https://news.google.com/search?q=EV%20Incentives%20India
+2025-04-21 17:45:10,178 - INFO - Successfully scraped: Google News EV Incentives India (https://news.google.com/search?q=EV%20Incentives%20India) - Saved to scraped_data\news_google_com.csv
+2025-04-21 17:45:10,178 - INFO - Progress: 19/19 URLs processed (100.0%)
+2025-04-21 17:45:10,179 - INFO - Scraping complete. Results saved to domain-specific files in scraped_data directory
+2025-04-21 18:00:35,707 - INFO - Scraping: https://www.team-bhp.com/forum/electric-cars/263539-tata-nexon-ev-max-shows-hv-system-fault-even-before-battery-reaches-9-a.html
+2025-04-21 18:00:36,447 - INFO - Successfully scraped: Tata Nexon EV Max System Fault (https://www.team-bhp.com/forum/electric-cars/263539-tata-nexon-ev-max-shows-hv-system-fault-even-before-battery-reaches-9-a.html) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 18:00:37,893 - INFO - Scraping: https://www.team-bhp.com/forum/electric-cars/231105-hyundai-kona-ev-owners-face-battery-issues-breakdowns-india.html
+2025-04-21 18:00:38,394 - INFO - Successfully scraped: Hyundai Kona EV Battery Issues (https://www.team-bhp.com/forum/electric-cars/231105-hyundai-kona-ev-owners-face-battery-issues-breakdowns-india.html) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 18:00:40,923 - INFO - Scraping: https://www.team-bhp.com/forum/electric-cars/282681-bangalore-leh-tata-nexon-ev-max-stuck-kashmir-highway-charging-issues-5.html
+2025-04-21 18:00:41,400 - INFO - Successfully scraped: Nexon EV Max Charging Issues in Kashmir (https://www.team-bhp.com/forum/electric-cars/282681-bangalore-leh-tata-nexon-ev-max-stuck-kashmir-highway-charging-issues-5.html) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 18:00:42,556 - INFO - Scraping: https://www.team-bhp.com/news/tata-nexon-ev-max-fast-charging-attempt-leaves-me-stranded
+2025-04-21 18:00:43,013 - INFO - Successfully scraped: Nexon EV Max Fast Charging Stranding (https://www.team-bhp.com/news/tata-nexon-ev-max-fast-charging-attempt-leaves-me-stranded) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 18:00:44,429 - INFO - Scraping: https://www.team-bhp.com/news/tiago-ev-recurring-charging-issue-unhappy-tatas-service-support
+2025-04-21 18:00:44,881 - INFO - Successfully scraped: Tiago EV Recurring Charging Issues (https://www.team-bhp.com/news/tiago-ev-recurring-charging-issue-unhappy-tatas-service-support) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 18:00:44,882 - INFO - Progress: 5/44 URLs processed (11.4%)
+2025-04-21 18:00:46,882 - INFO - Scraping: https://instachargeapp.pulseenergy.io/charger-error-codes
+2025-04-21 18:00:47,006 - INFO - Successfully scraped: Charger Error Codes (https://instachargeapp.pulseenergy.io/charger-error-codes) - Saved to scraped_data\instachargeapp_pulseenergy_io.csv
+2025-04-21 18:00:49,871 - INFO - Scraping: https://www.team-bhp.com/forum/diy-do-yourself/246521-facing-errors-while-connecting-obdii-scanner-any-recommendations.html
+2025-04-21 18:00:50,587 - INFO - Successfully scraped: OBDII Scanner Connection Errors (https://www.team-bhp.com/forum/diy-do-yourself/246521-facing-errors-while-connecting-obdii-scanner-any-recommendations.html) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 18:00:52,673 - INFO - Scraping: https://www.mgevs.com/threads/obd-2-codes-trouble-codes.17131/
+2025-04-21 18:00:54,783 - INFO - Successfully scraped: OBD-2 Trouble Codes (https://www.mgevs.com/threads/obd-2-codes-trouble-codes.17131/) - Saved to scraped_data\mgevs_com.csv
+2025-04-21 18:00:56,663 - INFO - Scraping: https://www.facebook.com/groups/232460761114676/
+2025-04-21 18:00:56,924 - ERROR - Failed to retrieve https://www.facebook.com/groups/232460761114676/: Status code 400
+2025-04-21 18:00:56,928 - WARNING - Failed to extract content from: MG EV Owners Group (https://www.facebook.com/groups/232460761114676/)
+2025-04-21 18:00:59,930 - INFO - Scraping: https://mgevs.com/threads/obd-2-codes-trouble-codes.17131/
+2025-04-21 18:01:01,101 - INFO - Successfully scraped: MG EVs OBD Codes (https://mgevs.com/threads/obd-2-codes-trouble-codes.17131/) - Saved to scraped_data\mgevs_com.csv
+2025-04-21 18:01:01,102 - INFO - Progress: 10/44 URLs processed (22.7%)
+2025-04-21 18:01:02,781 - INFO - Scraping: https://www.chevybolt.org/threads/fault-codes.49657/
+2025-04-21 18:01:11,535 - ERROR - Failed to retrieve https://www.chevybolt.org/threads/fault-codes.49657/: Status code 406
+2025-04-21 18:01:11,539 - WARNING - Failed to extract content from: Chevy Bolt Fault Codes (https://www.chevybolt.org/threads/fault-codes.49657/)
+2025-04-21 18:01:13,178 - INFO - Scraping: https://www.globalncap.org/news/tataligorev
+2025-04-21 18:01:15,923 - INFO - Successfully scraped: Tata Tiago EV NCAP (https://www.globalncap.org/news/tataligorev) - Saved to scraped_data\globalncap_org.csv
+2025-04-21 18:01:18,592 - INFO - Scraping: https://www.globalncap.org/news/tata-does-it-again-five-stars-for-the-new-nexon
+2025-04-21 18:01:19,721 - INFO - Successfully scraped: Tata Nexon Five Star Rating (https://www.globalncap.org/news/tata-does-it-again-five-stars-for-the-new-nexon) - Saved to scraped_data\globalncap_org.csv
+2025-04-21 18:01:22,197 - INFO - Scraping: https://www.acko.com/car-guide/safest-cars-in-india/
+2025-04-21 18:01:23,329 - INFO - Successfully scraped: Safest Cars in India (https://www.acko.com/car-guide/safest-cars-in-india/) - Saved to scraped_data\acko_com.csv
+2025-04-21 18:01:25,297 - INFO - Scraping: https://www.plugshare.com/location/357525
+2025-04-21 18:01:27,221 - WARNING - Failed to extract content from: PlugShare Location (https://www.plugshare.com/location/357525)
+2025-04-21 18:01:27,223 - INFO - Progress: 15/44 URLs processed (34.1%)
+2025-04-21 18:01:28,274 - INFO - Scraping: https://www.team-bhp.com/forum/electric-cars/231386-bhpians-experience-ev-charging-stations-across-india-especially-non-metros-2-print.html
+2025-04-21 18:01:28,601 - INFO - Successfully scraped: EV Charging Stations Experience (https://www.team-bhp.com/forum/electric-cars/231386-bhpians-experience-ev-charging-stations-across-india-especially-non-metros-2-print.html) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 18:01:29,875 - INFO - Scraping: https://www.team-bhp.com/forum/electric-cars/277438-comparison-rfid-cards-dc-fast-charging-evs-india.html
+2025-04-21 18:01:30,301 - INFO - Successfully scraped: RFID Cards for DC Fast Charging (https://www.team-bhp.com/forum/electric-cars/277438-comparison-rfid-cards-dc-fast-charging-evs-india.html) - Saved to scraped_data\team-bhp_com.csv
+2025-04-21 18:01:31,816 - INFO - Scraping: https://www.spinny.com/used-electric-cars-in-mumbai/s/
+2025-04-21 18:01:33,673 - INFO - Successfully scraped: Used Electric Cars in Mumbai (https://www.spinny.com/used-electric-cars-in-mumbai/s/) - Saved to scraped_data\spinny_com.csv
+2025-04-21 18:01:35,920 - INFO - Scraping: https://www.cars24.com/buy-used-electric-cars/
+2025-04-21 18:01:36,875 - INFO - Successfully scraped: Cars24 Used EVs (https://www.cars24.com/buy-used-electric-cars/) - Saved to scraped_data\cars24_com.csv
+2025-04-21 18:01:38,106 - INFO - Scraping: https://www.olx.in/items/q-electric-car
+2025-04-21 18:01:53,141 - ERROR - Request error for https://www.olx.in/items/q-electric-car: HTTPSConnectionPool(host='www.olx.in', port=443): Read timed out. (read timeout=15)
+2025-04-21 18:01:53,144 - WARNING - Failed to extract content from: OLX Electric Cars (https://www.olx.in/items/q-electric-car)
+2025-04-21 18:01:53,147 - INFO - Progress: 20/44 URLs processed (45.5%)
+2025-04-21 18:01:55,345 - INFO - Scraping: https://www.cardekho.com/used-electric+cars+in+india
+2025-04-21 18:01:55,688 - INFO - Successfully scraped: CarDekho Used Electric Cars (https://www.cardekho.com/used-electric+cars+in+india) - Saved to scraped_data\cardekho_com.csv
+2025-04-21 18:01:58,103 - INFO - Scraping: https://www.carwale.com/used/tata-nexon-ev/
+2025-04-21 18:01:59,835 - INFO - Successfully scraped: Carwale Used Tata Nexon EV (https://www.carwale.com/used/tata-nexon-ev/) - Saved to scraped_data\carwale_com.csv
+2025-04-21 18:02:02,583 - INFO - Scraping: https://www.olx.in/cars_c84/q-electric-cars
+2025-04-21 18:02:02,923 - ERROR - Request error for https://www.olx.in/cars_c84/q-electric-cars: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-21 18:02:02,926 - WARNING - Failed to extract content from: OLX Cars Electric (https://www.olx.in/cars_c84/q-electric-cars)
+2025-04-21 18:02:05,185 - INFO - Scraping: https://droom.in/electric-cars/used
+2025-04-21 18:02:05,592 - INFO - Successfully scraped: Droom Used Electric Cars (https://droom.in/electric-cars/used) - Saved to scraped_data\droom_in.csv
+2025-04-21 18:02:06,902 - INFO - Scraping: https://economictimes.indiatimes.com/industry/renewables/from-repairs-to-resale-survey-reveals-why-most-ev-owners-in-india-want-to-switch-back-to-ice-vehicles/articleshow/112083415.cms
+2025-04-21 18:02:08,404 - INFO - Successfully scraped: EV Owners Switching Back to ICE (https://economictimes.indiatimes.com/industry/renewables/from-repairs-to-resale-survey-reveals-why-most-ev-owners-in-india-want-to-switch-back-to-ice-vehicles/articleshow/112083415.cms) - Saved to scraped_data\economictimes_indiatimes_com.csv
+2025-04-21 18:02:08,405 - INFO - Progress: 25/44 URLs processed (56.8%)
+2025-04-21 18:02:11,205 - INFO - Scraping: https://fame2.heavyindustries.gov.in
+2025-04-21 18:02:11,281 - ERROR - Request error for https://fame2.heavyindustries.gov.in: HTTPSConnectionPool(host='fame2.heavyindustries.gov.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+2025-04-21 18:02:11,284 - WARNING - Failed to extract content from: FAME II Scheme (https://fame2.heavyindustries.gov.in)
+2025-04-21 18:02:14,256 - INFO - Scraping: https://www.autocarindia.com/car-news/electric-cars
+2025-04-21 18:02:14,409 - INFO - Successfully scraped: Autocar India EV News (https://www.autocarindia.com/car-news/electric-cars) - Saved to scraped_data\autocarindia_com.csv
+2025-04-21 18:02:15,659 - INFO - Scraping: https://www.financialexpress.com/auto/electric-vehicles/
+2025-04-21 18:02:15,816 - INFO - Successfully scraped: Financial Express EV News (https://www.financialexpress.com/auto/electric-vehicles/) - Saved to scraped_data\financialexpress_com.csv
+2025-04-21 18:02:18,632 - INFO - Scraping: https://e-amrit.niti.gov.in/national-level-policy
+2025-04-21 18:02:18,788 - ERROR - Request error for https://e-amrit.niti.gov.in/national-level-policy: HTTPSConnectionPool(host='e-amrit.niti.gov.in', port=443): Max retries exceeded with url: /national-level-policy (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+2025-04-21 18:02:18,820 - WARNING - Failed to extract content from: E-Amrit National Policy (https://e-amrit.niti.gov.in/national-level-policy)
+2025-04-21 18:02:21,477 - INFO - Scraping: https://evindia.online/news
+2025-04-21 18:02:22,947 - INFO - Successfully scraped: EV India Online News (https://evindia.online/news) - Saved to scraped_data\evindia_online.csv
+2025-04-21 18:02:22,947 - INFO - Progress: 30/44 URLs processed (68.2%)
+2025-04-21 18:02:25,497 - INFO - Scraping: https://auto.hindustantimes.com/auto/electric-vehicles
+2025-04-21 18:02:25,797 - INFO - Successfully scraped: Hindustan Times EV News (https://auto.hindustantimes.com/auto/electric-vehicles) - Saved to scraped_data\auto_hindustantimes_com.csv
+2025-04-21 18:02:26,853 - INFO - Scraping: https://evstory.in/
+2025-04-21 18:02:28,999 - INFO - Successfully scraped: EV Story News (https://evstory.in/) - Saved to scraped_data\evstory_in.csv
+2025-04-21 18:02:31,274 - INFO - Scraping: https://evreporter.com/
+2025-04-21 18:02:31,685 - INFO - Successfully scraped: EV Reporter (https://evreporter.com/) - Saved to scraped_data\evreporter_com.csv
+2025-04-21 18:02:33,814 - INFO - Scraping: https://evtechnews.in/
+2025-04-21 18:02:35,794 - INFO - Successfully scraped: EV Tech News (https://evtechnews.in/) - Saved to scraped_data\evtechnews_in.csv
+2025-04-21 18:02:37,983 - INFO - Scraping: https://economictimes.indiatimes.com/topic/ev
+2025-04-21 18:02:38,154 - INFO - Successfully scraped: Economic Times EV News (https://economictimes.indiatimes.com/topic/ev) - Saved to scraped_data\economictimes_indiatimes_com.csv
+2025-04-21 18:02:38,155 - INFO - Progress: 35/44 URLs processed (79.5%)
+2025-04-21 18:02:39,719 - INFO - Scraping: https://www.cardekho.com/upcomingcars/electric
+2025-04-21 18:02:40,108 - INFO - Successfully scraped: CarDekho Upcoming EVs (https://www.cardekho.com/upcomingcars/electric) - Saved to scraped_data\cardekho_com.csv
+2025-04-21 18:02:41,914 - INFO - Scraping: https://www.carwale.com/new/electric-cars/
+2025-04-21 18:02:42,602 - INFO - Successfully scraped: Carwale New Electric Cars (https://www.carwale.com/new/electric-cars/) - Saved to scraped_data\carwale_com.csv
+2025-04-21 18:02:44,766 - INFO - Scraping: https://en.wikipedia.org/wiki/Ola_Electric
+2025-04-21 18:02:45,338 - INFO - Successfully scraped: Ola Electric (https://en.wikipedia.org/wiki/Ola_Electric) - Saved to scraped_data\en_wikipedia_org.csv
+2025-04-21 18:02:47,435 - INFO - Scraping: https://www.reuters.com/sustainability/climate-energy/indias-greenline-mobility-invest-275-million-decarbonize-heavy-truck-fleet-2025-04-10/
+2025-04-21 18:02:49,639 - INFO - Successfully scraped: India's Greenline Mobility Investment (https://www.reuters.com/sustainability/climate-energy/indias-greenline-mobility-invest-275-million-decarbonize-heavy-truck-fleet-2025-04-10/) - Saved to scraped_data\reuters_com.csv
+2025-04-21 18:02:50,960 - INFO - Scraping: https://www.ft.com/content/a730b0b8-b009-4b19-a83c-fc4f54e68f1f
+2025-04-21 18:02:52,065 - INFO - Successfully scraped: Financial Times EV Article (https://www.ft.com/content/a730b0b8-b009-4b19-a83c-fc4f54e68f1f) - Saved to scraped_data\ft_com.csv
+2025-04-21 18:02:52,066 - INFO - Progress: 40/44 URLs processed (90.9%)
+2025-04-21 18:02:53,778 - INFO - Scraping: https://www.reuters.com/business/autos-transportation/vws-skoda-invest-manufacturing-evs-india-despite-14-bln-tax-demand-overhang-2025-03-14/
+2025-04-21 18:02:55,937 - INFO - Successfully scraped: Skoda EV Investment in India (https://www.reuters.com/business/autos-transportation/vws-skoda-invest-manufacturing-evs-india-despite-14-bln-tax-demand-overhang-2025-03-14/) - Saved to scraped_data\reuters_com.csv
+2025-04-21 18:02:57,751 - INFO - Scraping: https://www.reuters.com/world/india/india-backs-ev-tariff-cuts-trump-trade-deal-defying-autos-lobby-sources-say-2025-04-02/
+2025-04-21 18:02:58,843 - INFO - Successfully scraped: India Backs EV Tariff Cuts (https://www.reuters.com/world/india/india-backs-ev-tariff-cuts-trump-trade-deal-defying-autos-lobby-sources-say-2025-04-02/) - Saved to scraped_data\reuters_com.csv
+2025-04-21 18:03:00,009 - INFO - Scraping: https://www.businessinsider.com/byd-just-got-blocked-from-selling-evs-in-india-2025-4
+2025-04-21 18:03:00,483 - INFO - Successfully scraped: BYD Blocked from Selling EVs in India (https://www.businessinsider.com/byd-just-got-blocked-from-selling-evs-in-india-2025-4) - Saved to scraped_data\businessinsider_com.csv
+2025-04-21 18:03:03,340 - INFO - Scraping: https://evolve.tatamotors.com/events/previous
+2025-04-21 18:03:03,657 - INFO - Successfully scraped: Tata Motors EV Events (https://evolve.tatamotors.com/events/previous) - Saved to scraped_data\evolve_tatamotors_com.csv
+2025-04-21 18:03:03,658 - INFO - Progress: 44/44 URLs processed (100.0%)
+2025-04-21 18:03:03,658 - INFO - Scraping complete. Results saved to domain-specific files in scraped_data directory
